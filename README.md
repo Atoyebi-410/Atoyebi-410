@@ -26,7 +26,7 @@ A business management platform designed for small service businesses to manage c
 - Supabase
 - Render
 
-🔗 **[Live Application](https://consilix-business-os.onrender.com/)** 🔗 **[Project Case Study](#)**
+🔗 **[Live Application](https://consilix-business-os.onrender.com/)** 🔗 **[Project Case Study](https://github.com/Atoyebi-410/consilix-business-os-portfolio.git)**
 
 ## 🛠️ Technical Skills
 
