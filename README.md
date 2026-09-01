@@ -36,7 +36,7 @@ Python · JavaScript · **HTML** · **CSS**
 
 **Backend**
 
-Flask · SQLAlchemy · Flask-Login · Flask-**WTF** · **REST** APIs
+Python · Flask · SQLAlchemy · Flask-Login · Flask-**WTF** · **REST** APIs
 
 **Databases**
 
